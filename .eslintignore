@@ -1,0 +1,8 @@
+node_modules
+lib
+dist
+coverage
+Socratic11/lib/**
+Socratic11/endtoend/*/build
+examples/svelte-example/public/build/
+bundle-legacy.js
